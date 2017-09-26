@@ -1,1 +1,2 @@
 First document!
+First changes from master!
